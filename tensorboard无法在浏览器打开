@@ -1,0 +1,4 @@
+运行tensorborad程序后，无法在浏览器打开，在命令窗口运行后，输出http://LAPTOP-J9497UJH:6006。
+解决方法，将文件夹指定到指定目录cd d:D:\UsersPycharmProjects\untitled
+d:
+输入tensorboard --logdir=logs --host=127.0.0.1解决问题
